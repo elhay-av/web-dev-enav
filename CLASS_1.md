@@ -16,19 +16,19 @@
 
 ## לעבודה
 - נכתוב קוד פעם ראשונה ונראה מה קורה
-```HTML
+``` html
 <h1>שלום לכולם</h1>
 ```
 
-```HTML
+``` html
 <div style="border: 1px solid red; width: 50px; height: 50px;">ריבוע</div>
 ```
 
-```HTML
+``` html
 <div style="border: 1px solid red; border-radius: 50%; width: 50px; height: 50px;">עיגול</div>
 ```
 
-```HTML
+``` html
 <a href="https://google.com">קישור</div>
 ```
 
