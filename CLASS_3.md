@@ -18,7 +18,7 @@
 ------
 
 
-{% include_relative CLASS_3.html %}
+{% include_relative CLASS_3-1.html %}
 
 
 1. [פתחו את הקישור ](https://jsfiddle.net/0uLv6mpj/)
