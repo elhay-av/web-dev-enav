@@ -22,4 +22,16 @@ body {
     .work-links {
         padding: 4em 0;
     }
+
+    #main-content {
+        h1, h2, h3, p {
+            direction: rtl;
+        }
+        h1, h2, h3 {
+            &:before {
+                margin-right: -1.5em;
+                margin-left: 0;
+            }
+        }
+    }
 }
