@@ -27,9 +27,22 @@ body {
         h1, h2, h3, p {
             direction: rtl;
         }
-        h1, h2, h3 {
+        
+        h2 {
             &:before {
                 margin-right: -1.5em;
+                margin-left: 0;
+            }
+        }
+        h1 {
+            &:before {
+                margin-right: -0.9em;
+                margin-left: 0;
+            }
+        }
+        h3 {
+            &:before {
+                margin-right: -2em;
                 margin-left: 0;
             }
         }
