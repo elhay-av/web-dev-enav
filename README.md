@@ -6,8 +6,8 @@
 |  [HTML חלק א](/CLASS_2.md) |    יב חשון |  18 October |    2 |
 |  [HTML חלק ב](/CLASS_3.md) |    יט חשון |  25 October |    3 |
 |   [CSS חלק א](/CLASS_4.md) |    כו חשון | 01 November |    4 |
-|                  CSS חלק ב |    ד כיסלו | 08 November |    5 |
-|                  CSS חלק ג |    יא כסלו | 15 November |    6 |
+|   [CSS חלק ב](/CLASS_5.md) |    ד כיסלו | 08 November |    5 |
+|           CSS חלק ג events |    יא כסלו | 15 November |    6 |
 |           JavaScript חלק א |    יח כסלו | 22 November |    7 |
 |          חנוכה - אין שיעור |    כה כסלו | 29 November |    - |
 |           JavaScript חלק ב |      ב טבט | 06 December |    8 |
