@@ -8,14 +8,16 @@
 - HEX `#348db1`
 - RGBA `rgb(52 141 177, 1)`
 
-## עוצוב טקסט
+{% include_relative class_5.html %}
+
+## עיצוב טקסט
 - `color` - צבע של הכתב
 - `font-size` - גודל הכתב
 - `font-family` - פונט
 - `text-align: center / right / left` - יישור הטקסט למרכז או לצדדים
 - `line-height` - גובהה השורה
 
-## עוצוב צורות
+## עיצוב צורות
 - `padding` - רווח פנימי (בין התוכן למסגרת)
 - `margin` - רווח חיצוני (בין המסגרת לסביבה)
 - `width` - גובה
