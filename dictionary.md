@@ -1,0 +1,12 @@
+# מילון תגיות עיצוב `style`
+- `width` - רוחב
+- `height` - גובה
+- `background-color` - צבע רקע
+- `border-width` - עובי המסגרת
+- `border-color` - צבע המסגרת
+- `border-style` - עיצוב המסגרת (מנוקד/קו רצוף)
+- `border-radius` - פינות עגולות למסגרת
+- `color` - צבע של הכתב
+- `padding` - רווח פנימי (בין התוכן למסגרת)
+- `margin` - רווח חיצוני (בין המסגרת לסביבה)
+- `position: absolute` -  `top`/`bottom`/`left`/`right`/ מיקום
