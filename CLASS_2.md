@@ -26,8 +26,8 @@
 {% include_relative class_2.html %}
 
 # מילון תגיות עיצוב `style`
-- `width` - גובה
-- `height` - רוחב
+- `width` - רוחב
+- `height` - גובה
 - `background-color` - צבע רקע
 - `border-width` - עובי המסגרת
 - `border-color` - צבע המסגרת

@@ -20,8 +20,8 @@
 ## עיצוב צורות
 - `padding` - רווח פנימי (בין התוכן למסגרת)
 - `margin` - רווח חיצוני (בין המסגרת לסביבה)
-- `width` - גובה
-- `height` - רוחב
+- `width` - רוחב
+- `height` - גובה
 - `background-color` - צבע רקע
 - `border-width` - עובי המסגרת
 - `border-color` - צבע המסגרת
