@@ -10,3 +10,4 @@
 - `padding` - רווח פנימי (בין התוכן למסגרת)
 - `margin` - רווח חיצוני (בין המסגרת לסביבה)
 - `position: absolute` -  `top`/`bottom`/`left`/`right`/ מיקום
+- `color` - {% include_relative class_5.html %}
