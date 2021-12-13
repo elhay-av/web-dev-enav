@@ -17,7 +17,7 @@ permalink: /
 |        [CSS חלק ג אירועים](/CLASS_6.md) |    יח כסלו | 22 November |    6 |
 |                       חנוכה - אין שיעור |    כה כסלו | 29 November |    - |
 | [JavaScript - מבני נתונים](/CLASS_7.md) |      ב טבט | 06 December |    7 |
-|                      JavaScript - תנאים |      ט טבט | 13 December |    8 |
+|       [JavaScript - תנאים](/CLASS_8.md) |      ט טבט | 13 December |    8 |
 |                     JavaScript - לולאות |     טז טבט | 20 December |    9 |
 |                   JavaScript - פונקציות |     כג טבט | 27 December |   10 |
 |                    JavaScript - אירועים |      א שבט |  03 January |   11 |
