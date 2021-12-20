@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-
+$baseurl: "{{ site.baseurl }}";
 body {
     text-align: right;
 
@@ -24,6 +24,13 @@ body {
 
     .work-links {
         padding: 4em 0;
+    }
+    .code-monkey-link {
+        display: inline-block;
+        background-color: #39261f;
+        background-image: url($baseurl + '/codemonkey-logo.png');
+        height: 80px;
+        width: 100%;
     }
 
     #main-content {
