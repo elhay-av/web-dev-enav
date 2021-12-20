@@ -29,6 +29,9 @@ body {
         display: inline-block;
         background-color: #39261f;
         background-image: url($baseurl + '/codemonkey-logo.png');
+        background-size: 90% auto;
+        background-repeat: no-repeat;
+        background-position: center;
         height: 80px;
         width: 100%;
     }
