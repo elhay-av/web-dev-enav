@@ -30,6 +30,8 @@ button.addEventListener('click', onClick);
 
 ## עשו זאת בעצמכם
 1. הדביקו בHTML
+
+
 ```
 <div class="category page hidden">
   <div class="centered">
@@ -51,6 +53,8 @@ button.addEventListener('click', onClick);
   </div>
 </div>
 ```
+
+
 3. הוסיפו את רשימת הדפים למשחק שלכם באזור המיועד ל JavaScript
 ```
 const pages = [
