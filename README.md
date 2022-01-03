@@ -20,7 +20,7 @@ permalink: /
 |       [JavaScript - תנאים](/CLASS_8.md) |      ט טבט | 13 December |    8 |
 |      [JavaScript - לולאות](/CLASS_9.md) |     טז טבט | 20 December |    9 |
 |   [JavaScript - פונקציות](/CLASS_10.md) |     כג טבט | 27 December |   10 |
-|                    JavaScript - אירועים |      א שבט |  03 January |   11 |
+|    [JavaScript - ארועים](/CLASS_11.md) |      א שבט |  03 January |   11 |
 |                  JavaScript - Selectors |      ח שבט |  10 January |   12 |
 |                 העשרה - Chrome dev tool |     טו שבט |  17 January |   13 |
 |                 העשרה - Chrome dev tool |     כה שבט |  24 January |   14 |
