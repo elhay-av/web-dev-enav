@@ -27,5 +27,5 @@ schema://server:port/path?query#anchor
 6. מיקום פנימי בדף anchor `#העשרה מבנה הURL`
 
 ```
-https://elhay-av.github.io/web-dev-enav/CLASS_19.html?year=2022#%D7%94%D7%A2%D7%A9%D7%A8%D7%94%20%D7%9E%D7%91%D7%A0%D7%94%20%D7%94URL
+https://elhay-av.github.io/web-dev-enav/CLASS_19.html?year=2022#%D7%94%D7%A2%D7%A9%D7%A8%D7%94-%D7%9E%D7%91%D7%A0%D7%94-%D7%94url
 ```
