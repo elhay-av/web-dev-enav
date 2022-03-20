@@ -1,4 +1,4 @@
-# שיעור 10 - JavaScript - ארועים
+# שיעור 11 - JavaScript - ארועים
 
 ## מה למדנו בשיעור הקודם
 - למדנו על פונקציות
@@ -29,7 +29,33 @@ button.addEventListener('click', onClick);
 
 
 ## עשו זאת בעצמכם
-1. הוסיפו את רשימת הדפים למשחק שלכם באזור המיועד ל JavaScript
+1. הדביקו בHTML
+
+
+```
+<div class="category page hidden">
+  <div class="centered">
+    <h1>שלום <i id="player-name"></i></h1>
+    <h2>מה בא לך לשחק?</h2>
+    <div class="input-wrapper">
+    <ul class="categories-list">
+      <li>
+        <button class="squer" id="kid-name">👨‍👩‍👧‍👧 נחש את שם הילד</button>
+      </li>
+            <li>
+        <button class="squer" id="places">🍇 מקומות בענב</button>
+      </li>
+            <li>
+        <button class="squer" id="html">💻 HTML</button>
+      </li>
+    </ul>
+    </div>
+  </div>
+</div>
+```
+
+
+3. הוסיפו את רשימת הדפים למשחק שלכם באזור המיועד ל JavaScript
 ```
 const pages = [
   "welcome",
@@ -39,6 +65,7 @@ const pages = [
 ```
 2. הוסיפו את קטע הקוד הבא
 ```
+const currentPage = 'welcome';
 const nameButton = document.getElementById('name-button');
 nameButton.addEventListener('click', () => {
   name = document.getElementById('name').value;
